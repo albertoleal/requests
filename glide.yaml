@@ -1,3 +1,4 @@
 package: github.com/albertoleal/requests
-import:
+import: []
+testImport:
 - package: gopkg.in/check.v1
